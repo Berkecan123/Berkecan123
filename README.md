@@ -2,7 +2,7 @@
 
 <img src="https://discord.c99.nl/widget/theme-2/363798917357240340.png"/>
 
-[<img src="https://img.shields.io/discord/882306946072473632?color=5661F6&label=Eclipsed&style=for-the-badge" />](https://discord.com/invite/GZ3Zzy5A9c)
+[<img src="https://img.shields.io/discord/1118150975467819019?color=5661F6&label=Eclipsed&style=for-the-badge" />](https://discord.gg/5FNeU6AaBn)
 
 ![](https://komarev.com/ghpvc/?username=berkecann&style=for-the-badge&color=4B32A9)
 
